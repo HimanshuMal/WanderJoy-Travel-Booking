@@ -6,6 +6,9 @@ WanderJoy is an interactive travel booking website built using the **MERN** (Mon
 
 ![DashboardWanderJoy](https://github.com/user-attachments/assets/f31fc0e5-b008-4612-8b61-6118411f9f84)
 
+![image](https://github.com/user-attachments/assets/ca949643-cf8f-4c12-bff7-9bb287d4207d)
+
+![image](https://github.com/user-attachments/assets/4b3adca8-ca3f-47ca-b1d2-29d47ca13602)
 
 ## Features
 
