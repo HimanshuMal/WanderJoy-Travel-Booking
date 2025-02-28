@@ -4,6 +4,9 @@
 
 WanderJoy is an interactive travel booking website built using the **MERN** (MongoDB, Express.js, React, Node.js) stack. It efficiently manages **1,000+ travel listings** and handles up to **500 concurrent user requests**, offering a seamless experience for users searching and booking travel destinations.
 
+![DashboardWanderJoy](https://github.com/user-attachments/assets/f31fc0e5-b008-4612-8b61-6118411f9f84)
+
+
 ## Features
 
 - **User Authentication:** Secure sign-up/login system with JWT authentication.
